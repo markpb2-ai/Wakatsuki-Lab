@@ -9,8 +9,8 @@ of results to return. Dest_path is the path to the directory specified for downl
 
 ## createActiveSiteInfo
 
-Once you have a directory with PDB files, you can pull the active site information
-with the following command:
+Once you have a directory with PDB files, you can pull the active site information and write it 
+to a csv with the following command:
 
 `python3 createActiveSiteInfo.py PDBs`
 
